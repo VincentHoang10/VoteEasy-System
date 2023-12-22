@@ -1,0 +1,79 @@
+Voting Protocol Name: MPO (Multiple Popularity Only)
+Initial Vote Calculation Results:
+
+Candidates                     Number of Votes                Number of Seats Won            % of Total Votes               % of Total Seats
+Deutsch (R)                           6                              0                             21.43                         0.00
+Pike (D)                              5                              0                             17.86                         0.00
+Jones (R)                             5                              0                             17.86                         0.00
+Smith (I)                             5                              0                             17.86                         0.00
+Foster (D)                            3                              0                             10.71                         0.00
+Borg (R)                              3                              0                             10.71                         0.00
+Jai (I)                               1                              0                             3.57                          0.00
+
+Remaining Seats: 7
+
+1 seat allocated to Deutsch since they have a higher number of votes than the candidate after them.
+
+Remaining Seats: 6
+
+Current Round Seat Allocation Results:
+
+Candidates                     Number of Votes                Number of Seats Won            % of Total Votes               % of Total Seats
+Deutsch (R)                           6                              1                             21.43                         14.29
+Pike (D)                              5                              0                             17.86                         0.00
+Jones (R)                             5                              0                             17.86                         0.00
+Smith (I)                             5                              0                             17.86                         0.00
+Foster (D)                            3                              0                             10.71                         0.00
+Borg (R)                              3                              0                             10.71                         0.00
+Jai (I)                               1                              0                             3.57                          0.00
+
+Remaining Seats: 6
+
+List of candidates currently tied with the same number of votes: Pike, Jones, Smith
+The winner of the tie result is Jones and wins 1 seat.
+
+List of candidates currently tied with the same number of votes: Pike, Smith
+The winner of the tie result is Smith and wins 1 seat.
+
+Pike wins 1 seat since they aren't currently tied with any other candidate.
+
+Current Round Seat Allocation Results:
+
+Candidates                     Number of Votes                Number of Seats Won            % of Total Votes               % of Total Seats
+Deutsch (R)                           6                              1                             21.43                         14.29
+Pike (D)                              5                              1                             17.86                         14.29
+Jones (R)                             5                              1                             17.86                         14.29
+Smith (I)                             5                              1                             17.86                         14.29
+Foster (D)                            3                              0                             10.71                         0.00
+Borg (R)                              3                              0                             10.71                         0.00
+Jai (I)                               1                              0                             3.57                          0.00
+
+Remaining Seats: 3
+
+List of candidates currently tied with the same number of votes: Foster, Borg
+The winner of the tie result is Foster and wins 1 seat.
+
+Borg wins 1 seat since they aren't currently tied with any other candidate.
+
+1 last seat allocated to the last remaining candidate Jai.
+
+Final Round of Seat Allocation Results:
+
+Candidates                     Number of Votes                Number of Seats Won            % of Total Votes               % of Total Seats
+Deutsch (R)                           6                              1                             21.43                         14.29
+Pike (D)                              5                              1                             17.86                         14.29
+Jones (R)                             5                              1                             17.86                         14.29
+Smith (I)                             5                              1                             17.86                         14.29
+Foster (D)                            3                              1                             10.71                         14.29
+Borg (R)                              3                              1                             10.71                         14.29
+Jai (I)                               1                              1                             3.57                          14.29
+
+The following candidates won seats: 
+
+Deutsch from the R party.
+Jones from the R party.
+Smith from the I party.
+Pike from the D party.
+Foster from the D party.
+Borg from the R party.
+Jai from the I party.
